@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # Hi, I'm mumuzi6
 
 **Java · AI Agent Applications · Open Source**
